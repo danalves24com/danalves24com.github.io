@@ -5,6 +5,7 @@
     <title>API hello world</title>
 </head>
 <body>    
+    <b>Data fetch:</b><br>
     <div class="code">    
         const opt = {
         method: 'GET',
@@ -19,8 +20,13 @@
         fetch("https://api-data.netlify.com/data/data.json", opt).then((response) => {return response.json();}).then((data)
         => {console.log(data)})
     </div>
-    <b>JQuery:</b><a href="/scripts/jq/jquery-3.4.1.js">/scripts/jq/jquery-3.4.1.js</a>
-    <b>BootStrap:</b>
+
+    <b>JQuery:</b><br>
+    <div class="code">
+        <[REMOVE_ME]script src="https://api-data.netlify.com/scripts/jq/jquery-3.4.1.js" />
+    </div>
+
+    <b>BootStrap:</b><br>
     <div class="code">
         <[REMOVE_ME]link rel="stylesheet" href="https://api-data.netlify.com\scripts\bts\bootstrap-4.4.1-dist\css\bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     </div>
@@ -29,7 +35,7 @@
 <style>
     .code {
         overflow:scroll;
-        width: 100%;
+        width: 60%;
         background-color: black;
         color: white;
     }
