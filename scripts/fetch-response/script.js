@@ -9,7 +9,7 @@
     }
     function getData(link) {
     fetch(link, opt).then((response) => {
-        return response.json();
+        //return response.json();
     }).then((data) => {
         console.log(data)
     })
