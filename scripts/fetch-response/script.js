@@ -10,9 +10,10 @@ console.log("input:" + obj)
         mode: 'cors',
         cache: 'default'
     }
-    fetch("https://api.covid19api.com/summary", opt).then((response) => {
+    function getData(link) {
+    fetch(link, opt).then((response) => {
         return response.json();
     }).then((data) => {
         console.log(data)
     })
-
+    }
