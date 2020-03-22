@@ -1,4 +1,4 @@
-    const opt 
+    var opt = ""
     function getData(link) {
         opt = {
             method: 'GET',
