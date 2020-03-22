@@ -1,5 +1,8 @@
 /*
-
+    allCountries() - all countries and details about them
+    countryOfCapital(capital) - find country by capital
+    CountryCode(country code) - country by country code
+    callingCode(calling code) - country by calling code
 */
 function allCountries() {
     fetch("https://restcountries-v1.p.rapidapi.com/all", {
