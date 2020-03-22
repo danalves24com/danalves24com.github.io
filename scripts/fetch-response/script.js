@@ -1,14 +1,14 @@
-    var opt = ""
+    const opt = {
+        method: 'GET',
+        headers: {
+            'Content-Type': 'text/json',
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Allow-Credentials" : true
+        },
+        mode: 'cors',
+        cache: 'default'
+    }
     function getData(link) {
-        opt = {
-            method: 'GET',
-            headers: {
-                'Content-Type': 'text/json',
-                "Access-Control-Allow-Origin": '"'+link+'"',
-            },
-            mode: 'no-cors',
-            cache: 'default'
-        }
     fetch(link, opt).then((response) => {
         return response.json();
     }).then((data) => {
