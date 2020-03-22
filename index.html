@@ -10,3 +10,14 @@
     <p>fetch("https://api-data.netlify.com/data/data.json", }).then(function(data){console.log(data0)})</p>
 </body>
 </html>
+<script>
+    const opt = {
+        method: 'GET',
+  headers: { 
+    'Content-Type': 'text/json';
+  },
+  mode: 'cors',
+  cache: 'default' 
+    }
+    fetch("https://api-data.netlify.com/data/data.json", opt).then(function(data){console.log(data0)})
+</script>
