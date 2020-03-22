@@ -13,6 +13,6 @@ console.log("input:" + obj)
     fetch("https://api.covid19api.com/summary", opt).then((response) => {
         return response.json();
     }).then((data) => {
-        console.log("Response: "+data)
+        console.log(data)
     })
 
