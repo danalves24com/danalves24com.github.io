@@ -6,8 +6,11 @@ function allCountries() {
 		"x-rapidapi-key": "bacd86d576msh7e4f10ea742f8b2p10a49cjsn06a2e594a624"
 	}
 })
-.then(response => {
-	console.log(response);
+.then((response) => {
+    return response.json();
+})
+.then((data) => {
+    console.log(data)
 })
 .catch(err => {
 	console.log(err);
