@@ -4,9 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>API hello world</title>
 </head>
-<body>
-    <h2>Why are you here? this page is useless</h2>
-    to fetch data:
+<body>    
     <div class="code">    
         const opt = {
         method: 'GET',
@@ -21,13 +19,15 @@
         fetch("https://api-data.netlify.com/data/data.json", opt).then((response) => {return response.json();}).then((data)
         => {console.log(data)})
     </div>
-    <b>JQuery: </b> <p>\scripts\jq\jquery-3.4.1.js</p>
+    <b>JQuery:</b><a>/scripts/jq/jquery-3.4.1.js</a>
 </body>
 </html>
 <style>
     .code {
         overflow:scroll;
         width: 100%;
+        background-color: black;
+        color: white;
     }
 </style>
 <script>
