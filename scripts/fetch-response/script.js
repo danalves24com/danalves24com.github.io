@@ -1,4 +1,4 @@
-export default function getData(link) {
+function getData(link) {
     const opt = {
         method: 'GET',
         headers: {
