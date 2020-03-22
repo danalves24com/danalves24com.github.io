@@ -1,8 +1,6 @@
 function workTest(obj) {
 console.log("input:" + obj)
 }
-/*
-function getData(link) {
     const opt = {
         method: 'GET',
         headers: {
@@ -12,13 +10,9 @@ function getData(link) {
         mode: 'cors',
         cache: 'default'
     }
-    var output = ""
-    fetch(link, opt).then((response) => {
+    fetch("https://api.covid19api.com/summary", opt).then((response) => {
         return response.json();
     }).then((data) => {
         console.log("Response: "+data)
-        output = data
     })
-    return output
-}
-*/
+
