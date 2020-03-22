@@ -3,7 +3,7 @@
             method: 'GET',
             headers: {
                 'Content-Type': 'text/json',
-                "Access-Control-Allow-Origin": '"'+link+'"',
+                "Access-Control-Allow-Origin": link,
             },
             mode: 'no-cors',
             cache: 'default'
