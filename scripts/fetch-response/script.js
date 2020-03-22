@@ -6,7 +6,7 @@
                 'Content-Type': 'text/json',
                 "Access-Control-Allow-Origin": '"'+link+'"',
             },
-            mode: 'cors',
+            mode: 'no-cors',
             cache: 'default'
         }
     fetch(link, opt).then((response) => {
