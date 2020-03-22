@@ -10,6 +10,15 @@
        SRC: https://api-data.netlify.com\scripts\fetch-response\script.js <br>
        USAGE: getData("LINK")
     </div>
+    <b>Country intel:</b><br>
+    <div class="code">    
+       SRC: https://api-data.netlify.com/scripts/countries/script.js <br>
+       USAGE:  <br>
+        allCountries() - all countries and details about them <br>
+        countryOfCapital(capital) - find country by capital <br>
+        CountryCode(country code) - country by country code <br>
+        callingCode(calling code) - country by calling code <br>
+    </div>
 </body>
 </html>
 <style>
@@ -20,17 +29,3 @@
         color: white;
     }
 </style>
-<script>
-    const opt = {
-    method: 'GET',
-    headers: {
-    'Content-Type': 'text/json',
-    "Access-Control-Allow-Origin": "*",
-
-    },
-    mode: 'cors',
-    cache: 'default'
-    }
-    fetch("https://api-data.netlify.com/data/data.json", opt).then((response) => {return response.json();}).then((data)
-    => {console.log(data)})
-</script>
