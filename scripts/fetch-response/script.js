@@ -1,13 +1,14 @@
-const defaultOPT = {
+const opt = {
     method: 'GET',
     headers: {
         'Content-Type': 'text/json',
-        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Origin": null,
     },
-    mode: 'cors',
+    mode: 'no-cors',
 }    
-function getData(link, options) {
-    fetch(link, options)
+    function getData(link, opt) {    
+
+    fetch(link, opt)
     .then((response) => {
         return response.json();
     })
