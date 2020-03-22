@@ -1,6 +1,3 @@
-function workTest(obj) {
-console.log("input:" + obj)
-}
     const opt = {
         method: 'GET',
         headers: {
