@@ -1,3 +1,7 @@
+function workTest(obj) {
+console.log("input:" + obj)
+}
+/*
 function getData(link) {
     const opt = {
         method: 'GET',
@@ -17,3 +21,4 @@ function getData(link) {
     })
     return output
 }
+*/
