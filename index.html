@@ -7,21 +7,39 @@
 <body>
     <h2>Why are you here? this page is useless</h2>
     to fetch data:
-    <p>fetch("https://api-data.netlify.com/data/data.json", }).then(function(data){console.log(data0)})</p>
+    <div class="code">    
+        const opt = {
+        method: 'GET',
+        headers: {
+        'Content-Type': 'text/json',
+        "Access-Control-Allow-Origin": "*",
+    
+        },
+        mode: 'cors',
+        cache: 'default'
+        }
+        fetch("https://api-data.netlify.com/data/data.json", opt).then((response) => {return response.json();}).then((data)
+        => {console.log(data)})
+    </div>
 </body>
 </html>
+<style>
+    .code {
+        overflow: auto;
+        width: 100%;
+    }
+</style>
 <script>
     const opt = {
-        method: 'GET',
-  headers: { 
+    method: 'GET',
+    headers: {
     'Content-Type': 'text/json',
     "Access-Control-Allow-Origin": "*",
 
-  },
-  mode: 'cors',
-  cache: 'default' 
+    },
+    mode: 'cors',
+    cache: 'default'
     }
-    fetch("https://api-data.netlify.com/data/data.json", opt).then((response) => {
-    return response.json();
-  }).then((data) => {console.log(data)})
+    fetch("https://api-data.netlify.com/data/data.json", opt).then((response) => {return response.json();}).then((data)
+    => {console.log(data)})
 </script>
