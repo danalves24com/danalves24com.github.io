@@ -3,9 +3,8 @@
         headers: {
             'Content-Type': 'text/json',
             "Access-Control-Allow-Origin": "*",
-            "Access-Control-Allow-Credentials" : true
         },
-        mode: 'cors',
+        mode: 'no-cors',
         cache: 'default'
     }
     function getData(link) {
