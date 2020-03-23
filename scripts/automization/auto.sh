@@ -1,17 +1,13 @@
 #!/bin/bash
 upload() {
 	git add .
-	git commit -m "status $1"
+	git commit -m "status"
 	git push && git pull
-	merge
 }
 merge() {
 git checkout master
 git merge dev
 }
-for (( c=1; c<=10; c++ ))
-do
-	echo "$c is the index rn" >> info.json
-	sleep 1m
-	upload $c
-done
+echo "2 is the index rn"
+upload
+merge
