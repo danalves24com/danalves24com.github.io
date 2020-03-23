@@ -8,6 +8,7 @@ merge() {
 git checkout master
 git merge dev
 }
+git checkout dev
 echo "2 is the index rn"
 upload
 merge
