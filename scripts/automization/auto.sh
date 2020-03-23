@@ -1,14 +1,11 @@
 #!/bin/bash
-upload() {
-	git add .
-	git commit -m "status"
-	git push && git pull
-}
-merge() {
-git checkout master
-git merge dev
-}
 git checkout dev
-echo "2 is the index rn" >> info.json
-upload
-merge
+for (( c=1; c<=10; c++ ))
+do
+	echo "$c is the number in the array" >> info.json
+	git add .
+	git commit -m $RANDOM
+	git push && git pull
+	git checkout master
+	git merge dev
+done
