@@ -9,6 +9,6 @@ git checkout master
 git merge dev
 }
 git checkout dev
-echo "2 is the index rn"
+echo "2 is the index rn" >> info.json
 upload
 merge
