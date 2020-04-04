@@ -1,10 +1,11 @@
-const opt = {
-    method: 'GET',
-    headers: {
-        'Content-Type': 'text/json',
-        "Access-Control-Allow-Origin": null,
-    },
-    mode: 'no-cors',
+var link = ""
+const opt = {    
+		method: 'GET',
+		mode: 'no-cors',
+			headers: {
+				'Content-Type': 'application/json',
+  				'Access-Control-Allow-Origin': '*'
+  			}		
 }    
     function getData(link, opt) {    
 
@@ -18,7 +19,4 @@ const opt = {
     .catch(err => {
         console.log(err);
     })
-
-
-
 }
