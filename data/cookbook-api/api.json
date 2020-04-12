@@ -47,7 +47,7 @@
 
     "3": {
         "name": "strawberries summer salad",
-        "resources": ["sesame seeds", "poppy seeds", "white sugar", "olive oil", "white vinegar", "paprika", "Worcestershire sauce", "minced onion", "fresh spinach", "strawberries", "almonds"],
+        "resources": ["sesame seeds", "poppy seeds", "white sugar", "olive oil", "white vinegar", "paprika", "Worcestershire sauce", "onion", "fresh spinach", "strawberries", "almonds"],
         "tags": ["Salad", "Vegetarian", "Gluten-free"],    
         "steps": {
             "ingredients": ["2 tablespoons sesame seeds","1 tablespoon poppy seeds", "1/2 cup white sugar","1/2 cup olive oil", "1/4 cup distilled white vinegar", "1/4 teaspoon paprika","1/4 teaspoon Worcestershire sauce", "1 tablespoon minced onion", "10 ounces fresh spinach - rinsed, dried and torn into bite-size pieces", "1 quart strawberries - cleaned, hulled and sliced", "1/4 cup almonds, blanched and slivered"],
@@ -373,8 +373,75 @@
                 "step3" : "Freeze until hardened, about 5 minutes. Break into pieces and serve."
             }
         }
+    },
+    "26": {
+        "name": "French Macaroons",
+        "resources": ["powdered sugar", "eggs", "white sugar", "ground almonds"],
+        "tags": ["Snack", "Dessert", "Vegetarian"],
+        "steps": {
+            "ingredients": ["3 egg whites", "1/4 cup white sugar", "Powdered sugar", "115 cups finely ground almonds"],
+            "bakingSteps": {
+                "step1" : "Line a baking sheet with a silicone baking mat.",
+                "step2" : "Beat egg whites in the bowl of a stand mixer fitted with a whisk attachment until whites are foamy; beat in white sugar and continue beating until egg whites are glossy, fluffy, and hold soft peaks. Sift confectioners' sugar and ground almonds in a separate bowl and quickly fold the almond mixture into the egg whites, about 30 strokes.",
+                "step3" : "Spoon a small amount of batter into a plastic bag with a small corner cut off and pipe a test disk of batter, about 1 1/2 inches in diameter, onto prepared baking sheet. If the disk of batter holds a peak instead of flattening immediately, gently fold the batter a few more times and retest.",
+                "step4" : "When batter is mixed enough to flatten immediately into an even disk, spoon into a pastry bag fitted with a plain round tip. Pipe the batter onto the baking sheet in rounds, leaving space between the disks. Let the piped cookies stand out at room temperature until they form a hard skin on top, about 1 hour.",
+                "step5" : "Preheat oven to 285 degrees F (140 degrees C).",
+                "step6" : "Bake cookies until set but not browned, about 10 minutes; let cookies cool completely before filling."
+            }
+        }
+    },
+    "27": {
+        "name": "Paleo Baked Eggs in Avocado",
+        "resources": ["eggs", "avocado"],
+        "tags": ["Easy", "Apperizer", "Fast", "Snack", "Vegetarian", "Gluten-free"],
+        "steps": {
+            "ingredients": ["2 small eggs", "1 avocado, halved and pitted", "2 slices cooked bacon, crumbled(optional)", "1 pinch sea salt and ground black pepper to taste", "any salad related food choped"],
+            "bakingSteps": {
+                "step1" : "Preheat oven to 425 degrees F (220 degrees C).",
+                "step2" : "Crack the eggs into a bowl, being careful to keep the yolks intact.",
+                "step3" : "Arrange avocado halves in a baking dish, resting them along the edge so avocado won't tip over. Gently spoon 1 egg yolk into the avocado hole. Continue spooning egg white into the hole until full. Repeat with remaining egg yolk, egg white, and avocado. Season each filled avocado with chives, parsley, sea salt, and pepper.",
+                "step4" : "Gently place baking dish in the preheated oven and bake until eggs are cooked, about 15 minutes. Sprinkle bacon over avocado."
+            }
+        }
+    },
+    "28": {
+        "name": "Hummus",
+        "resources": ["chickpeas", "garlic", "olive oil"],
+        "tags": ["Apperizer", "Fast", "Easy", "Vegetarian", "Gluten-free"],
+        "steps": {
+            "ingredients": ["Chickpeas 15 ounce", "1 clove garlic, crushed", "2 teaspoons ground cumin(optional)", "1/2 teaspoon salt", "1 tablespoon olive oil"],
+            "bakingSteps": {
+                "step1" : "In a blender or food processor combine garbanzo beans, garlic, cumin, salt and olive oil. Blend on low speed, gradually adding reserved bean liquid, until desired consistency is achieved."
+            }
+        }
+    },
+    "29": {
+        "name": "Keto Cheese Crisps",
+        "resources": ["Cheddar cheese"],
+        "tags": ["Apperizer", "Easy", "Vegetarian", "Gluten-free", "Fast"],
+        "steps": {
+            "ingredients": ["1 cup shredded Cheddar cheese"],
+            "bakingSteps": {
+                "step1" : "Shred Chedar cheese",
+                "step2" : "Preheat oven to 400 degrees F (200 degrees C). Line 2 baking sheets with parchment paper.",
+                "step3" : "Arrange Cheddar cheese in 24 small heaps on the prepared baking sheets.",
+                "step4" : "Bake in the preheated oven until golden brown, about 7 minutes. Cool for 5 to 10 minutes before removing from baking sheets."
+            }
+        }
+    },
+    "30": {
+        "name": "",
+        "resources": ["grapes", "white sugar"],
+        "tags": ["Snack", "Apperizer", "Easy", "Gluten-free", "Vegetarian"],
+        "steps": {
+            "ingredients": ["2 cups of grapes", "1/4 cup white sugar"],
+            "bakingSteps": {
+                "step1" : "Remove grapes from stems and place in a colander. Wash thoroughly.",
+                "step2" : "Place grapes in a gallon-size resealable bag.",
+                "step3" : "Pour sugar into the bag and seal. Gently shake the bag to evenly coat grapes with sugar.",
+                "step4" : "Arrange grapes on a paper towel to air-dry any remaining water, about 15 minutes.",
+                "step5" : "Place grapes in a single layer on a shallow pan or baking sheet. Freeze for at least 2 hours."
+            }
+        }
     }
-
-
-
 }]
