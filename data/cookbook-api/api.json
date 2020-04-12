@@ -305,7 +305,7 @@
     "21": {
         "name": "Simple Pizza",
         "resources": ["all purpose flour", "greek yogurt", "all purpose flour", "baking powder", "tomato sauce"],
-        "tags": ["Italian", "Fast", "Easy"],
+        "tags": ["Italian", "Fast", "Easy", "Vegetarian"],
         "steps": {
             "ingredients": ["1 cup nonfat plain Greek yogurt", "1 ½ cups all purpose flour", "2 ¼ tsp baking powder", "3/8 tsp salt", "tomato sauce", "pizza topping of choice"],
             "bakingSteps": {
@@ -318,5 +318,63 @@
                 "step7" : "Generously dust your pizza stone with cornmeal (this will help prevent your crust from sticking to the stone). Place pizza dough on top. Spread tomato sauce over crust, leaving about 1 inch edge uncovered. Sprinkle with cheese. Top with remaining toppings like sausage, peppers, pepperoni. Place pizza stone in oven and cook for about 10 minutes. Turn up the oven to 500°F and continue to cook the pizza for a few more minutes until the edges are a dark golden brown and crispy."
             }
         }
+    },
+    "22": {
+        "name": "GRILLED CHEESE AND TOMATO SANDWICHES",
+        "resources": ["toast bread", "tomatoes", "Cheddar cheese", "butter"],
+        "tags": ["Snack", "Fast", "Easy", "Vegetarian"],
+        "steps": {
+            "ingredients": ["4 slices toast bread", "1  medium tomato", "4 slices white cheddar cheese", "2 tbsp unsalted butter"],
+            "bakingSteps": {
+                "step1" : "Spread about 1/2 tbsp butter on one side of each slice of bread. Place a slice of cheese on top of the unbuttered side of each bread slice. Add a few slices of tomato to two of the slices. Place remaining slices of bread on top, to form two sandwiches (with butter side facing up).",
+                "step2" : "Place skillet pan on the stove and turn to medium heat. Once hot, carefully place the sandwiches in the frying pan, cooking the bottom buttered side until golden and toasty and the cheese is melty. Press down on the sandwiches with a spatula or other cooking tool to help it heat through the cheese layer faster. Then carefully flip over and cook until the other side is also toasty and cheese is melted"
+            }
+        }
+    },
+    "23": {
+        "name": "English Muffin",
+        "resources": ["milk", "coconut flour", "eggs", "baking powder"],
+        "tags": ["Breakfast", "Vegetarian", "Snack"],
+        "steps": {
+            "ingredients": ["2 tbsp coconut flour", "1 large egg", "1/8 tsp baking powder", "2 tbsp milk"],
+            "bakingSteps": {
+                "step1" : "Grease the interior of a 3.5 inch wide ramekin.",
+                "step2" : "In a small bowl, combine all four ingredients. Whisk together with a small whisk until batter is smooth and even.",
+                "step3" : "Pour contents into your ramekin. Cook in the microwave at full power for about 90 seconds or until muffin is completely cooked.",
+                "step4" : "Eat muffin as is, or slice in half and toast in a toaster oven or in a small frying pan over the stove."
+            }
+        }
+    },
+    "24": {
+        "name": "Chocolate Cake",
+        "resources": ["butter", "eggs", "chocolate"],
+        "tags": ["Cake", "Dessert", "Snack", "Vegetarian", "Gluten-free"],
+        "steps": {
+            "ingredients": ["1 cup (2 sticks) unsalted butter, plus more for pan", "8 large eggs", "16 ounces semisweet chocolate chips", "1/4 teaspoon fine sea salt"],
+            "bakingSteps": {
+                "step1" : "Preheat oven to 350°F. Grease springform pan with butter and line bottom with parchment.",
+                "step2" : "Using an electric mixer on high speed, beat eggs in a large bowl until doubled in size, about 5 minutes.",
+                "step3" : "Place chocolate chips, salt, and 1 cup butter in a large microwave-proof bowl. Microwave on high in 10-second bursts, stirring between bursts, until smooth and pourable.",
+                "step4" : "Using a rubber spatula, gently fold one-third of the whipped eggs into chocolate mixture until incorporated. Fold egg and chocolate mixture back into remaining whipped eggs until incorporated.",
+                "step5" : "Transfer to prepared pan; cover bottom and sides of pan completely with foil. Set springform pan inside a large roasting pan; add hot water to a depth of about 1''",
+                "step6" : "Bake cake until a toothpick inserted into the center comes out clean and sides of cake begin to pull away from pan, 30–40 minutes. Let cool before serving."
+            }
+        }
+    },
+    "25": {
+        "name": "Chocolate Bark",
+        "resources": ["chocolate", "hard candy"],
+        "tags": ["Snack", "Fast", "Gluten-free", "Vegetarian", "Dessert", "Easy"],
+        "steps": {
+            "ingredients": ["12 ounces high-quality dark chocolate, coarsely chopped", "1/2 teaspoon peppermint extract (OPTIONAL)", "5 candy canes, coarsely crushed"],
+            "bakingSteps": {
+                "step1" : "Line a baking sheet with parchment. Bring a double boiler or a heatproof bowl set over a small pot of water to a low simmer. Place chocolate in bowl and gently stir until completely melted. Remove from heat and stir in peppermint extract.",
+                "step2" : "Pour chocolate mixture onto prepared baking sheet and spread evenly with a spatula or wooden spoon. Immediately sprinkle with crushed candy canes and press lightly to adhere.",
+                "step3" : "Freeze until hardened, about 5 minutes. Break into pieces and serve."
+            }
+        }
     }
+
+
+
 }]
