@@ -430,7 +430,7 @@
         }
     },
     "30": {
-        "name": "",
+        "name": "Frosty grapes",
         "resources": ["grapes", "white sugar"],
         "tags": ["Snack", "Apperizer", "Easy", "Gluten-free", "Vegetarian"],
         "steps": {
