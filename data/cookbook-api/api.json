@@ -146,7 +146,7 @@
     },
     "10": {
         "name": "Chips and Guacamole",
-        "resources": ["chips", "avocado", "tomatoes", "can plum tomato", "red onion", "limes"],
+        "resources": ["chips", "avocado", "tomatoes", "limes"],
         "tags": ["Snack", "Gluten-free", "Vegetarian", "Mexican", "Fast"],    
         "steps": {
             "ingredients": ["2 avocados", "1 tomato", "1/4 cup red onion (chopped)", "salt", "3 limes", "anything spicy"],
@@ -157,6 +157,33 @@
                 "step4": "Season with sea salt and lime juice, stir everything well together and serve!",
                 "step5": "For spicy guacamole add finely chopped chili, too!"
             }
+        }
+    },
+    "11": {
+        "name": "Cheesy Chicken Nachos",
+        "resources": ["tortilla chips", "chicken breasts", "Cheddar cheese", "salsa", "radishes", "cotija cheese", "avocado", "salad"],
+        "tags": ["Snack","Fast"],
+        "steps": {
+            "ingredients": ["1 11-oz. pkg. tortilla chips", "2 cups shredded rotisserie chicken", "6 ounces sharp Cheddar cheese, shredded (about 1½ cups)", "1 cup prepared pico de gallo or salsa", "2 radishes, thinly sliced", "2 ounces cotija cheese, crumbled (about ½ cup)", "1 ripe avocado, sliced", "½ cup loosely packed fresh cilantro leaves"],
+            "bakingSteps": {
+                "step1" : "Preheat oven to 400°F. Line a baking sheet with aluminum foil.",
+                "step2" : "Spread chips evenly across baking sheet and top with chicken and Cheddar. Bake until cheese is melted, about 10 minutes.",
+                "step3": "Top nachos with pico de gallo, radishes, cotija, avocado, cilantro, and jalapeño and hot sauce, if using. Serve immediately."
+            }
+        }
+    },
+    "12": {
+        "name": "Simple pancakes",
+        "resources": ["plain flour", "eggs", "milk", "vegetable oil", ""],
+        "steps": {
+            "ingredients": ["100g plain flour", "2 large eggs", "300ml milk", "1 tbsp sunflower or vegetable oil, plus a little extra for frying", "lemon wedges, to serve (optional)", "caster sugar, to serve (optional)"],
+            "bakingSteps": {
+                "step1" : "Put 100g plain flour, 2 large eggs, 300ml milk, 1 tbsp sunflower or vegetable oil and a pinch of salt into a bowl or large jug, then whisk to a smooth batter.",
+                "step2" : "Set aside for 30 mins to rest if you have time, or start cooking straight away.",
+                "step3" : "Set a medium frying pan or crêpe pan over a medium heat and carefully wipe it with some oiled kitchen paper.",
+                "step4": "When hot, cook your pancakes for 1 min on each side until golden, keeping them warm in a low oven as you go.",
+                "step5" : "Serve with lemon wedges and caster sugar, or your favourite filling. Once cold, you can layer the pancakes between baking parchment, then wrap in cling film and freeze for up to 2 months."
+                }
         }
     }
 }]
