@@ -127,6 +127,22 @@
                 "step5": "Pour the egg into the skillet and stir constantly with a wooden spoon or rubber spatula until the eggs are hot and clump together. "
             }
         }
+    },
+    "9":{
+        "name": "Roasted Sweet Potato & Scallion Salad",
+        "resources": ["sweet potato", "scallions", "salad", "canola oil", "soy sauce", "balsamic vinegar", "brown sugar", "roasted pumpkin seeds"],
+        "tags": ["Salad", "Gluten-free", "Vegetarian"],    
+        "steps": {
+            "ingredients": ["1 lb. sweet potatoes, peeled", "2 bunches scallions, white and pale-green parts cut into ½-inch pieces", "2 Tbs. canola oil, divided", "1 Tbs. soy sauce", "1 Tbs. balsamic vinegar", "1 tsp. brown sugar", "8 cups loosley packed salad greens (6-8 oz.)", "¼ cup roasted pumpkin seeds"],
+            "bakingSteps": {
+                "step1" : "Preheat the oven to 450°F/ 232°C",
+                "step2": "Cut the sweet potatoes into ⅓-inch-thick sticks.",
+                "step3": "On a rimmed baking sheet, toss the sweet potatoes and scallions with 1 Tbs. of the oil. Roast until the sweet potatoes are tender, 10-12 minutes. ", 
+                "step4": "Remove and allow to cool. ",
+                "step5": "In a large bowl, whisk the soy sauce, vinegar, and sugar with the remaining 1 Tbs. of oil. ", 
+                "step6": "Toss the salad greens with the dressing. Top with the sweet potatoes, scallions, and pumpkin seeds"
+            }
+        }
     }
 }]
 
