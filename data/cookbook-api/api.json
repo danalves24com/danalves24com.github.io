@@ -1,0 +1,133 @@
+[{
+    "0": {
+        "name": "Chicken & chorizo jambalaya",
+        "tags": ["Spanish", "Gluten-free"],
+        "resources": ["olive oil", "chicken breasts", "onion", "red pepper", "garlic", "chorizo", "Cajun seasoning", "long grain rice", "can plum tomato", "chicken stock"],
+        "steps": {
+            "ingredients": ["1 tbsp olive oil", "2 chicken breasts, chopped", "1 diced onion", "1 red pepper, thinly sliced", "2 garlic cloves, crushed", "75g chorizo, sliced", "1 tbsp Cajun seasoning", "250g long grain rice", "400g can plum tomato", "350ml chicken stock"],
+            "bakingSteps": {
+                "step1" : "Heat 1 tbsp olive oil in a large frying pan with a lid and brown 2 chopped chicken breasts for 5-8 mins until golden.",
+                "step2" : "Remove and set aside. Tip in the 1 diced onion and cook for 3-4 mins until soft.",
+                "step3" : "Add 1 thinly sliced red pepper, 2 crushed garlic cloves, 75g sliced chorizo and 1 tbsp Cajun seasoning, and cook for 5 mins more.",
+                "step4" : "Stir the chicken back in with 250g long grain rice, add the 400g can of tomatoes and 350ml chicken stock. Cover and simmer for 20-25 mins until the rice is tender."
+            }
+        }
+    },
+    "1": {
+        "name": "Red lentil, chickpea & chilli soup",
+        "resources": ["cumin seeds", "chilli flakes", "olive oil", "red split lentils", "vegetable stock", "tomatoes", "chickpeas", "coriander"],
+        "tags": ["Soup", "Vegetarian", "Gluten-free"],
+        "steps": {
+            "ingredients": ["2 tsp cumin seeds", "large pinch chilli flakes", "1 tbsp olive oil", "1 red onion, chopped", "140g red split lentils", "850ml vegetable stock or water", " 400g can tomatoes, whole or chopped", "200g can chickpeas or ½ a can, drained and rinsed (freeze leftovers)", "small bunch coriander, roughly chopped (save a few leaves, to serve)", "4 tbsp 0% Greek yogurt, to serve"],
+            "bakingSteps": {
+                "step1" : "Heat a large saucepan and dry-fry 2 tsp cumin seeds and a large pinch of chilli flakes for 1 min, or until they start to jump around the pan and release their aromas.",
+                "step2" : "Add 1 tbsp olive oil and 1 chopped red onion, and cook for 5 mins. ",
+                "step3": "Stir in 140g red split lentils, 850ml vegetable stock or water and a 400g can tomatoes, then bring to the boil. Simmer for 15 mins until the lentils have softened",
+                "step4": "Whizz the soup with a stick blender or in a food processor until it is a rough purée, pour back into the pan and add a 200g can drained and rinsed chickpeas.",
+                "step5" : "Heat gently, season well and stir in a small bunch of chopped coriander, reserving a few leaves to serve. Finish with 4 tbsp 0% Greek yogurt and extra coriander leaves."
+            }
+        }
+    },
+
+    "2": {
+        "name": "Chocolate brownie cake",
+        "resources": ["butter", "caster sugar", "light brown sugar", "chocolate", "golden syrup", "eggs", "vanilla extract", "plain flour", "baking powder", "cocoa powder"],
+        "tags": ["Dessert", "Cake"],    
+        "steps": {
+            "ingredients": ["100g butter", "175g caster sugar", "75g light brown or muscovado sugar", "125g chocolate(plain or milk)", "1 tbsp golden syrup", "2 eggs", "1 tsp vanilla extract /essence", "100g plain flour", "½ tsp baking powder", "2 tbsp cocoa powder"],
+            "bakingSteps": {
+                "step1" : "Heat oven to 180C/fan 160C/gas 4. Grease and line a 20cm cake tin.",
+                "step2" : "Place the butter, caster sugar, brown sugar, chocolate and golden syrup in the pan and melt gently on a low heat until it is smooth and lump-free.",
+                "step3" : "Remove the pan from the heat.",
+                "step4" : "Break the eggs into the bowl and whisk with the fork until light and frothy. 5 Add the eggs, vanilla extract or essence, flour, baking powder and cocoa powder to the chocolate mixture and mix thoroughly.",
+                "step5" : "Put the mixture into the greased and lined cake tin and place on the middle shelf of the oven. Bake for 25-30 mins."
+            }
+        }
+    },
+
+    "3": {
+        "name": "strawberries summer salad",
+        "resources": ["sesame seeds", "poppy seeds", "white sugar", "olive oil", "white vinegar", "paprika", "Worcestershire sauce", "minced onion", "fresh spinach", "strawberries", "almonds"],
+        "tags": ["Salad", "Vegetarian", "Gluten-free"],    
+        "steps": {
+            "ingredients": ["2 tablespoons sesame seeds","1 tablespoon poppy seeds", "1/2 cup white sugar","1/2 cup olive oil", "1/4 cup distilled white vinegar", "1/4 teaspoon paprika","1/4 teaspoon Worcestershire sauce", "1 tablespoon minced onion", "10 ounces fresh spinach - rinsed, dried and torn into bite-size pieces", "1 quart strawberries - cleaned, hulled and sliced", "1/4 cup almonds, blanched and slivered"],
+            "bakingSteps": {
+                "step1" : "In a medium bowl, whisk together the sesame seeds, poppy seeds, sugar, olive oil, vinegar, paprika, Worcestershire sauce and onion. Cover, and chill for one hour.",
+                "step2" : "In a large bowl, combine the spinach, strawberries and almonds. Pour dressing over salad, and toss. Refrigerate 10 to 15 minutes before serving."
+            }
+        }
+    },
+    "4": {
+        "name": "Green Egg Salad",
+        "resources": ["eggs", "avocado", "fresh spinach", "celery", "plain yogurt", "red pepper flakes", "garlic powder", "ground black pepper"],
+        "tags": ["Salad", "Vegetarian", "Gluten-free"],    
+        "steps": {
+            "ingredients": ["7 hard-boiled eggs, peeled", "2 avocados - peeled, pitted, and mashed", "1 1/2 cups chopped spinach", "2 stalks celery, chopped (optional)", "1/2 cup plain yogurt", "1 pinch red pepper flakes, or to taste", "garlic powder, or to taste", "ground black pepper to taste"],
+            "bakingSteps": {
+                "step1" : "Mash eggs and avocado together in a bowl. Stir spinach, celery, and yogurt into the egg mixture; season with red pepper flakes, garlic powder, and black pepper."
+            }
+        }
+    },
+    "5": {
+        "name": "Simple Pasta",
+        "resources": ["salt", "pasta", "olive oil"],
+        "tags": ["Italian", "Vegetarian"],    
+        "steps": {
+            "ingredients": ["a pinch of salt", "desired amount of pasta", "1 tbsp olive oil"],
+            "bakingSteps": {
+                "step1" : "Fill a large pot about 2/3 full of water. Since the pasta needs lots of room to move around as it cooks, use a big pot. For example, if you'll be cooking a 1 pound (450 g) box of pasta, get out a pot that's at least 4 US quarts (3.8 L) in size. Then, pour in enough water to come 2/3 up the side of the pot.",
+                "step2" : "Cover the pot and bring the water to a boil. Set the pot of water on the stove and put a lid on it. Turn the burner to high and let the water come to a boil. You'll know the water is boiling when you see steam escaping from under the lid",
+                "step3" : "Add salt and 1 pound (450 g) of pasta to the boiling water. Once the water boils vigorously, remove the lid and add 1 tablespoon (17 g) of salt and 1 pound (450 g) of pasta. If you're cooking long noodles, such as spaghetti, that don't fit in the pot, wait about 30 seconds and then push them into the water using a spoon or pasta fork.",
+                "step4" : "Set a timer for 3 to 8 minutes. Stir the noodles with a pasta fork to break the noodles up and leave the lid off the pot. Then, check the pasta package for a recommended cooking time and set a timer for the minimum time that's suggested. For example, if the box says to cook the noodles for 7 to 9 minutes, set a timer for 7 minutes",
+                "step5" : "Stir the noodles occasionally as they boil. The water should continue to bubble as the pasta cooks. Stir it every few minutes to prevent the noodles from sticking together.",
+                "step6" : "Bite into a noodle to see if it's cooked enough for you. Carefully scoop a noodle out of the water when the timer beeps and set it aside to cool a little. Bite into the noodle to tell if it's still hard in the center or if it's as soft as you like. Most people prefer to cook pasta until it's al dente, which means it's still a little firm in the center."
+            }
+        }
+    },
+    "6": {
+        "name": "Granny's German Schnitzel Recipe",
+        "resources": ["pork", "flour", "eggs", "lemon juice", "bread crumb", "vegetable oil", "lemon"],
+        "tags": ["German", "Meat"],    
+        "steps": {
+            "ingredients": ["4 boneless pork or veal chops", "1 teaspoon salt", "1/2 teaspoon black pepper", "1 cup all-purpose flour", "2 large eggs", "1 tablespoon lemon juice", "1 cup plain bread crumbs", "Vegetable oil for frying", "lemon slices"],
+            "bakingSteps": {
+                "step1" : "Trim meat of any unwanted fat (if desired). Lay the pork or veal chops out on a countertop between two layers of plastic wrap. Pound out chops until 1/4 inch thick. Season with salt and pepper.",
+                "step2": "Spread flour out into a shallow dish. In another shallow dish, whisk eggs together with lemon juice. In a third shallow dish, spread out bread crumbs.",
+                "step3": "Pour about 1/4 inch of vegetable oil into a large deep skillet. Bring oil to 350 degrees F.",
+                "step4": "Dredge chops into flour to coat, then immediately dip into eggs to coat, followed by bread crumbs to coat.",
+                "step5": "Place chops into the hot oil and fry 3 to 4 minutes. Work in batches if needed based on size of pan. Chops shouldn't be crowded.",
+                "step6": "Gently flip over and cook for an additional 3 to 4 minutes on the other side until chop reaches a minimum internal temperature of 145 F and is browned and crisp.",
+                "step7": "serve with hot lemon slices"
+            }
+        }
+    },
+    "7": {
+        "name": "Oatmeal with Mix-ins",
+        "resources": ["cinnamon", "oats", "milk"],
+        "tags": ["Easy", "Breakfast", "Fast", "Vegetarian", "Gluten-free"],    
+        "steps": {
+            "ingredients": ["oats", "milk", "cinnamon", "apple", "almonds", "dried cranberries"],
+            "bakingSteps": {
+                "step1" : " Bring water or milk to a boil in a small pot over high heat (keep an eye onthe pot as once milk boils, it can bubble right out of the pot). ",
+                "step2": " Stir in the oats and turn off the heat. For chewy texture, cover and leave for 5 minutes without stirring. For a creamier texture, stir for a minute then cover and leave for 4 minutes."
+            }
+        }
+    },
+    "8": {
+        "name": "Scrambled Eggs with Sweet Potato Hash",
+        "resources": ["sweet potato", "olive oil", "bell pepper", "onion", "eggs", "milk"],
+        "tags": ["Breakfast", "Gluten-free"],    
+        "steps": {
+            "ingredients": ["1 small sweet potato (about 1⁄3 lb.), peeled", "1 tsp. extra-virgin olive oil", "¾ cup chopped bell pepper", "¼ cup chopped onion or scallion", "1 egg", "1 tsp. milk", "1⁄16 tsp. kosher salt"],
+            "bakingSteps": {
+                "step1" : "Microwave the potato for 3 minutes then run under cold water to cool.",
+                "step2": "Cut the potato into cubes. ln a small, nonstick skillet, heat the oil over medium heat. Sauté the potato, peppers and onions until potatoes are tender, 3-5 minutes. ",
+                "step3": "In a bowl, whisk the eggs, milk and salt together.",
+                "step4": "Move the sweet potato, pepper and onion onto a plate. ",
+                "step5": "Pour the egg into the skillet and stir constantly with a wooden spoon or rubber spatula until the eggs are hot and clump together. "
+            }
+        }
+    }
+}]
+
+
