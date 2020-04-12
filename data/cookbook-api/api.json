@@ -143,6 +143,21 @@
                 "step6": "Toss the salad greens with the dressing. Top with the sweet potatoes, scallions, and pumpkin seeds"
             }
         }
+    },
+    "10": {
+        "name": "Chips and Guacamole",
+        "resources": ["chips", "avocado", "tomatoes", "can plum tomato", "red onion", "limes"],
+        "tags": ["Snack", "Gluten-free", "Vegetarian", "Mexican", "Fast"],    
+        "steps": {
+            "ingredients": ["2 avocados", "1 tomato", "1/4 cup red onion (chopped)", "salt", "3 limes", "anything spicy"],
+            "bakingSteps": {
+                "step1" : "Peel and pit avocados and finely chop onion and add to a bowl. Use a fork to mush up all the avocado.", 
+                "step2": "Wash and cut the tomato in half and remove all the seeds and liquid, then dice the flesh only and add to the bowl.",
+                "step3": "Wash and spin dry fresh cilantro and finely chop until you have about 1/4 cup chopped cilantro and add to the bowl.",
+                "step4": "Season with sea salt and lime juice, stir everything well together and serve!",
+                "step5": "For spicy guacamole add finely chopped chili, too!"
+            }
+        }
     }
 }]
 
