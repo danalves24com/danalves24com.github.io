@@ -242,7 +242,7 @@
         }
     },
     "17": {
-        "name": "",
+        "name": "Lemon pudding",
         "resources": ["lemon", "white sugar", "heavy cream"],
         "tags": ["Dessert", "Fast", "Vegetarian", "Gluten-free"],
         "steps": {
