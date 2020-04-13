@@ -130,7 +130,7 @@
         "name": "Scrambled Eggs with Sweet Potato Hash",
         "resources": ["sweet potato", "olive oil", "bell pepper", "onion", "eggs", "milk"],
         "tags": ["Breakfast", "Gluten-free"],    
-        "img": "",
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.eatingrules.com%2Fwp-content%2Fuploads%2F2013%2F10%2Fscrambled-eggs-sweet-potato-hash.jpg&f=1&nofb=1",
 
         "steps": {
             "ingredients": ["1 small sweet potato (about 1⁄3 lb.), peeled", "1 tsp. extra-virgin olive oil", "¾ cup chopped bell pepper", "¼ cup chopped onion or scallion", "1 egg", "1 tsp. milk", "1⁄16 tsp. kosher salt"],
@@ -147,7 +147,7 @@
         "name": "Roasted Sweet Potato & Scallion Salad",
         "resources": ["sweet potato", "scallions", "salad", "canola oil", "soy sauce", "balsamic vinegar", "sugar", "roasted pumpkin seeds"],
         "tags": ["Salad", "Gluten-free", "Vegetarian"],    
-        "img": "",
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F4.bp.blogspot.com%2F-_BD4psLJeHk%2FU5z1Cm0njCI%2FAAAAAAAABOk%2FAyDeF0ow3Kg%2Fs1600%2Froasted%2Bsweet%2Bpotatoes%2Bwith%2Bbacon%2Band%2Bscallions.PNG&f=1&nofb=1",
 
         "steps": {
             "ingredients": ["1 lb. sweet potatoes, peeled", "2 bunches scallions, white and pale-green parts cut into ½-inch pieces", "2 Tbs. canola oil, divided", "1 Tbs. soy sauce", "1 Tbs. balsamic vinegar", "1 tsp. brown sugar", "8 cups loosley packed salad greens (6-8 oz.)", "¼ cup roasted pumpkin seeds"],
@@ -165,7 +165,7 @@
         "name": "Chips and Guacamole",
         "resources": ["chips", "avocado", "tomatoes", "limes", "red onion"],
         "tags": ["Snack", "Gluten-free", "Vegetarian", "Mexican", "Fast"],    
-        "img": "",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Floseyoself.files.wordpress.com%2F2014%2F10%2Fchips-and-guacamole.jpg&f=1&nofb=1",
 
         "steps": {
             "ingredients": ["2 avocados", "1 tomato", "1/4 cup red onion (chopped)", "salt", "3 limes", "anything spicy"],
