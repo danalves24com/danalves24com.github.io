@@ -3,6 +3,7 @@
         "name": "Chicken & chorizo jambalaya",
         "tags": ["Spanish", "Gluten-free"],
         "resources": ["olive oil", "chicken breasts", "onion", "red pepper", "garlic", "chorizo", "Cajun seasoning", "long grain rice", "tomatoes", "chicken stock"],
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F93546-d-c.ooyala.com%2Fcontent%2Fimages%2F1204%2F280030_1280x720.jpg&f=1&nofb=1",
         "steps": {
             "ingredients": ["1 tbsp olive oil", "2 chicken breasts, chopped", "1 diced onion", "1 red pepper, thinly sliced", "2 garlic cloves, crushed", "75g chorizo, sliced", "1 tbsp Cajun seasoning", "250g long grain rice", "400g tomato", "350ml chicken stock"],
             "bakingSteps": {
@@ -34,6 +35,7 @@
         "name": "Chocolate brownie cake",
         "resources": ["butter", "caster sugar", "brown sugar", "chocolate", "golden syrup", "eggs", "vanilla extract", "plain flour", "baking powder", "cocoa powder"],
         "tags": ["Dessert", "Cake"],    
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FzA6Xf-YUadk%2Fmaxresdefault.jpg&f=1&nofb=1",
         "steps": {
             "ingredients": ["100g butter", "175g caster sugar", "75g light brown or muscovado sugar", "125g chocolate(plain or milk)", "1 tbsp golden syrup", "2 eggs", "1 tsp vanilla extract /essence", "100g plain flour", "½ tsp baking powder", "2 tbsp cocoa powder"],
             "bakingSteps": {
@@ -50,6 +52,8 @@
         "name": "strawberries summer salad",
         "resources": ["sesame seeds", "poppy seeds", "sugar", "olive oil", "white vinegar", "paprika", "Worcestershire sauce", "onion", "fresh spinach", "strawberries", "almonds"],
         "tags": ["Salad", "Vegetarian", "Gluten-free"],    
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1.bp.blogspot.com%2F--vPzTh8WqQo%2FUCNAO1aeqgI%2FAAAAAAAACLU%2F0R7ta21v4V8%2Fw1200-h630-p-k-nu%2FIMG_4394.jpg&f=1&nofb=1",
+
         "steps": {
             "ingredients": ["2 tablespoons sesame seeds","1 tablespoon poppy seeds", "1/2 cup white sugar","1/2 cup olive oil", "1/4 cup distilled white vinegar", "1/4 teaspoon paprika","1/4 teaspoon Worcestershire sauce", "1 tablespoon minced onion", "10 ounces fresh spinach - rinsed, dried and torn into bite-size pieces", "1 quart strawberries - cleaned, hulled and sliced", "1/4 cup almonds, blanched and slivered"],
             "bakingSteps": {
@@ -62,6 +66,8 @@
         "name": "Green Egg Salad",
         "resources": ["eggs", "avocado", "fresh spinach", "celery", "plain yogurt", "red pepper flakes", "garlic powder", "ground black pepper"],
         "tags": ["Salad", "Vegetarian", "Gluten-free"],    
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3.amazonaws.com%2Fstudio-me%2Fsystem%2Fphotos%2Fphotos%2F000%2F816%2F452%2Flarge%2F28152953_l.jpg%3F1429804765&f=1&nofb=1",
+
         "steps": {
             "ingredients": ["7 hard-boiled eggs, peeled", "2 avocados - peeled, pitted, and mashed", "1 1/2 cups chopped spinach", "2 stalks celery, chopped (optional)", "1/2 cup plain yogurt", "1 pinch red pepper flakes, or to taste", "garlic powder, or to taste", "ground black pepper to taste"],
             "bakingSteps": {
@@ -73,6 +79,8 @@
         "name": "Simple Pasta",
         "resources": ["salt", "pasta", "olive oil"],
         "tags": ["Italian", "Vegetarian"],    
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnwI40GAqatw%2Fmaxresdefault.jpg&f=1&nofb=1",
+
         "steps": {
             "ingredients": ["a pinch of salt", "desired amount of pasta", "1 tbsp olive oil"],
             "bakingSteps": {
@@ -89,6 +97,8 @@
         "name": "Granny's German Schnitzel Recipe",
         "resources": ["pork", "flour", "eggs", "lemon juice", "bread crumb", "vegetable oil", "lemon"],
         "tags": ["German", "Meat"],    
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.dessertfortwo.com%2Fwp-content%2Fuploads%2F2014%2F12%2FSchnitzel-2.jpg&f=1&nofb=1",
+
         "steps": {
             "ingredients": ["4 boneless pork or veal chops", "1 teaspoon salt", "1/2 teaspoon black pepper", "1 cup all-purpose flour", "2 large eggs", "1 tablespoon lemon juice", "1 cup plain bread crumbs", "Vegetable oil for frying", "lemon slices"],
             "bakingSteps": {
@@ -106,6 +116,8 @@
         "name": "Oatmeal with Mix-ins",
         "resources": ["cinnamon", "oats", "milk"],
         "tags": ["Easy", "Breakfast", "Fast", "Vegetarian", "Gluten-free"],    
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F3.bp.blogspot.com%2F-73sp4B-XUiY%2FTwmc40S4D9I%2FAAAAAAAAKdQ%2FrqF-HDY5b70%2Fs1600%2Foatmeal%2Bwith%2Braisons.jpg&f=1&nofb=1",
+
         "steps": {
             "ingredients": ["oats", "milk", "cinnamon", "apple", "almonds", "dried cranberries"],
             "bakingSteps": {
@@ -118,6 +130,8 @@
         "name": "Scrambled Eggs with Sweet Potato Hash",
         "resources": ["sweet potato", "olive oil", "bell pepper", "onion", "eggs", "milk"],
         "tags": ["Breakfast", "Gluten-free"],    
+        "img": "",
+
         "steps": {
             "ingredients": ["1 small sweet potato (about 1⁄3 lb.), peeled", "1 tsp. extra-virgin olive oil", "¾ cup chopped bell pepper", "¼ cup chopped onion or scallion", "1 egg", "1 tsp. milk", "1⁄16 tsp. kosher salt"],
             "bakingSteps": {
@@ -133,6 +147,8 @@
         "name": "Roasted Sweet Potato & Scallion Salad",
         "resources": ["sweet potato", "scallions", "salad", "canola oil", "soy sauce", "balsamic vinegar", "sugar", "roasted pumpkin seeds"],
         "tags": ["Salad", "Gluten-free", "Vegetarian"],    
+        "img": "",
+
         "steps": {
             "ingredients": ["1 lb. sweet potatoes, peeled", "2 bunches scallions, white and pale-green parts cut into ½-inch pieces", "2 Tbs. canola oil, divided", "1 Tbs. soy sauce", "1 Tbs. balsamic vinegar", "1 tsp. brown sugar", "8 cups loosley packed salad greens (6-8 oz.)", "¼ cup roasted pumpkin seeds"],
             "bakingSteps": {
@@ -149,6 +165,8 @@
         "name": "Chips and Guacamole",
         "resources": ["chips", "avocado", "tomatoes", "limes", "red onion"],
         "tags": ["Snack", "Gluten-free", "Vegetarian", "Mexican", "Fast"],    
+        "img": "",
+
         "steps": {
             "ingredients": ["2 avocados", "1 tomato", "1/4 cup red onion (chopped)", "salt", "3 limes", "anything spicy"],
             "bakingSteps": {
@@ -164,6 +182,8 @@
         "name": "Cheesy Chicken Nachos",
         "resources": ["tortilla chips", "chicken breasts", "Cheddar cheese", "salsa", "radishes", "cotija cheese", "avocado", "salad"],
         "tags": ["Snack","Fast"],
+        "img": "",
+
         "steps": {
             "ingredients": ["1 11-oz. pkg. tortilla chips", "2 cups shredded rotisserie chicken", "6 ounces sharp Cheddar cheese, shredded (about 1½ cups)", "1 cup prepared pico de gallo or salsa", "2 radishes, thinly sliced", "2 ounces cotija cheese, crumbled (about ½ cup)", "1 ripe avocado, sliced", "½ cup loosely packed fresh cilantro leaves"],
             "bakingSteps": {
@@ -177,6 +197,8 @@
         "name": "Simple pancakes",
         "resources": ["plain flour", "eggs", "milk", "vegetable oil"],
         "tags": ["Vegetarian","Fast", "Breakfast", "Dessert"],
+        "img": "",
+
         "steps": {
             "ingredients": ["100g plain flour", "2 large eggs", "300ml milk", "1 tbsp sunflower or vegetable oil, plus a little extra for frying", "lemon wedges, to serve (optional)", "caster sugar, to serve (optional)"],
             "bakingSteps": {
@@ -192,6 +214,8 @@
         "name": "Easy chicken fajitas",
         "resources": ["chicken breasts", "red onion", "red pepper", "smoked paprika", "coriander", "cumin", "garlic", "olive oil", "limes", "tabasco", "tortillas", "salad", "salsa"],
         "tags": ["Spanish"],
+        "img": "",
+
         "steps": {
             "ingredients": ["2 large chicken breasts, finely sliced", "1 red onion, finely sliced", "1 red pepper, sliced", "1 heaped tbsp smoked paprika", "1 tbsp ground coriander", "pinch of ground cumin", "2 medium garlic cloves, crushed", "4 tbsp olive oil", "1 lime, juiced", "4-5 drops Tabasco", "6 medium tortillas", "bag mixed salad", "230g tub fresh salsa"],
             "bakingSteps": {
@@ -210,6 +234,8 @@
         "name": "Bolognese",
         "resources": ["olive oil", "onion", "garlic", "celery", "carrot", "minced beef", "tomatoes", "basil", "Pecorino Romano cheese"],
         "tags":["Italian"],
+        "img": "",
+
         "steps": {
             "ingredients": ["4 tbsps extra virgin olive oil", "1 medium onion, coarsely chopped", "2 garlic cloves, peeled, coarsely chopped", "1 celery stalk, coarsely chopped", "1 carrot, coarsely chopped", "500g minced beef", "1 (800g) tin crushed tomatoes", "Handful flat leaf Italian parsley, chiffonade", "8 fresh basil leaves, chiffonade", "Salt and freshly ground black pepper", "60g freshly grated Pecorino Romano cheese"],
             "bakingSteps": {
@@ -223,6 +249,8 @@
         "name": "NUTELLA BROWNIES",
         "resources": ["Nutella", "eggs", "flour"],
         "tags": ["Dessert", "Cake", "Fast", "Vegetarian"],
+        "img": "",
+
         "steps": {
             "ingredients": ["1  1/4 cup Nutella", "2 large eggs", "1/2 cup all purpose flour"],
             "bakingSteps": {
@@ -235,6 +263,8 @@
         "name": "Cookie Dough Greek Yogurt",
         "resources": ["greek yogurt", "peanut flour", "sugar", "vanilla extract"],
         "tags":["Breakfast", "Dessert", "Snack", "Fast", "Vegetarian", "Gluten-free"],
+        "img": "",
+
         "steps": {
             "ingredients": ["1 cup Greek yogurt", "2 tbs Peanut flour", "1 tbs Sweetener of choice", "1/2 tsp Vanilla extract", "1/4 tsp Almond extract (optional)", "1-2 tsp Chocolate chips (optional)"],
             "bakingSteps": {
@@ -246,6 +276,8 @@
         "name": "Lemon pudding",
         "resources": ["lemon", "sugar", "heavy cream"],
         "tags": ["Dessert", "Fast", "Vegetarian", "Gluten-free"],
+        "img": "",
+
         "steps": {
             "ingredients": ["4 lemons, preferably organic", "2 1/4 cups sugar", "3 1/2 cups heavy cream", "Pinch of salt"],
             "bakingSteps": {
@@ -260,6 +292,8 @@
         "name": "Coconut Macaroons",
         "resources": ["flaked coconut", "condensed milk", "vanilla extract"],
         "tags": ["Gluten-free", "Dessert", "Snack", "Vegetarian"],
+        "img": "",
+
         "steps": {
             "ingredients": ["5 1/2 cups sweetened flaked coconut (gently packed)", "1 (14-ounce) can sweetened ​condensed milk", "2 to 3 teaspoons vanilla extract"],
             "bakingSteps": {
@@ -278,6 +312,8 @@
         "name": "Banana rolls",
         "resources": ["banana", "almond butter", "cinnamon"],
         "tags": ["Dessert", "Fast", "Easy", "Gluten-free", "Vegetarian"],
+        "img": "",
+
         "steps": {
             "ingredients": ["1 Medium-Sized Banana", "1 Tbl Almond Butter", "1/2 tsp Cinnamon"],
             "bakingSteps": {
@@ -293,6 +329,8 @@
         "name": "BANANA PANCAKES",
         "resources": ["banana", "eggs", "oats"],
         "tags": ["Breakfast", "Gluten-free", "Vegetarian", "Fast"],
+        "img": "",
+
         "steps": {
             "ingredients": ["1 large ripe banana", "1 large egg", "2 tbsp quick oats", "1/4 tsp baking powder(OPTIONAL)"],
             "bakingSteps": {
@@ -307,6 +345,8 @@
         "name": "Simple Pizza",
         "resources": ["all purpose flour", "greek yogurt", "all purpose flour", "baking powder", "tomato sauce"],
         "tags": ["Italian", "Fast", "Easy", "Vegetarian"],
+        "img": "",
+
         "steps": {
             "ingredients": ["1 cup nonfat plain Greek yogurt", "1 ½ cups all purpose flour", "2 ¼ tsp baking powder", "3/8 tsp salt", "tomato sauce", "pizza topping of choice"],
             "bakingSteps": {
@@ -324,6 +364,8 @@
         "name": "GRILLED CHEESE AND TOMATO SANDWICHES",
         "resources": ["toast bread", "tomatoes", "Cheddar cheese", "butter"],
         "tags": ["Snack", "Fast", "Easy", "Vegetarian"],
+        "img": "",
+
         "steps": {
             "ingredients": ["4 slices toast bread", "1  medium tomato", "4 slices white cheddar cheese", "2 tbsp unsalted butter"],
             "bakingSteps": {
@@ -336,6 +378,8 @@
         "name": "English Muffin",
         "resources": ["milk", "coconut flour", "eggs", "baking powder"],
         "tags": ["Breakfast", "Vegetarian", "Snack"],
+        "img": "",
+
         "steps": {
             "ingredients": ["2 tbsp coconut flour", "1 large egg", "1/8 tsp baking powder", "2 tbsp milk"],
             "bakingSteps": {
@@ -350,6 +394,8 @@
         "name": "Chocolate Cake",
         "resources": ["butter", "eggs", "chocolate"],
         "tags": ["Cake", "Dessert", "Snack", "Vegetarian", "Gluten-free"],
+        "img": "",
+
         "steps": {
             "ingredients": ["1 cup (2 sticks) unsalted butter, plus more for pan", "8 large eggs", "16 ounces semisweet chocolate chips", "1/4 teaspoon fine sea salt"],
             "bakingSteps": {
@@ -366,6 +412,8 @@
         "name": "Chocolate Bark",
         "resources": ["chocolate", "hard candy"],
         "tags": ["Snack", "Fast", "Gluten-free", "Vegetarian", "Dessert", "Easy"],
+        "img": "",
+
         "steps": {
             "ingredients": ["12 ounces high-quality dark chocolate, coarsely chopped", "1/2 teaspoon peppermint extract (OPTIONAL)", "5 candy canes, coarsely crushed"],
             "bakingSteps": {
@@ -379,6 +427,8 @@
         "name": "French Macaroons",
         "resources": ["powdered sugar", "eggs", "sugar", "ground almonds"],
         "tags": ["Snack", "Dessert", "Vegetarian"],
+        "img": "",
+
         "steps": {
             "ingredients": ["3 egg whites", "sugar", "powdered sugar", "115 cups finely ground almonds"],
             "bakingSteps": {
@@ -395,6 +445,8 @@
         "name": "Paleo Baked Eggs in Avocado",
         "resources": ["eggs", "avocado"],
         "tags": ["Easy", "Apperizer", "Fast", "Snack", "Vegetarian", "Gluten-free"],
+        "img": "",
+
         "steps": {
             "ingredients": ["2 small eggs", "1 avocado, halved and pitted", "2 slices cooked bacon, crumbled(optional)", "1 pinch sea salt and ground black pepper to taste", "any salad related food choped"],
             "bakingSteps": {
@@ -409,6 +461,8 @@
         "name": "Hummus",
         "resources": ["chickpeas", "garlic", "olive oil"],
         "tags": ["Apperizer", "Fast", "Easy", "Vegetarian", "Gluten-free"],
+        "img": "",
+
         "steps": {
             "ingredients": ["Chickpeas 15 ounce", "1 clove garlic, crushed", "2 teaspoons ground cumin(optional)", "1/2 teaspoon salt", "1 tablespoon olive oil"],
             "bakingSteps": {
@@ -420,6 +474,8 @@
         "name": "Keto Cheese Crisps",
         "resources": ["Cheddar cheese"],
         "tags": ["Apperizer", "Easy", "Vegetarian", "Gluten-free", "Fast"],
+        "img": "",
+
         "steps": {
             "ingredients": ["1 cup shredded Cheddar cheese"],
             "bakingSteps": {
@@ -434,6 +490,8 @@
         "name": "Frosty grapes",
         "resources": ["grapes", "white sugar"],
         "tags": ["Snack", "Apperizer", "Easy", "Gluten-free", "Vegetarian"],
+        "img": "",
+
         "steps": {
             "ingredients": ["2 cups of grapes", "1/4 cup white sugar"],
             "bakingSteps": {
