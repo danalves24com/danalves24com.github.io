@@ -329,7 +329,7 @@
         "name": "BANANA PANCAKES",
         "resources": ["banana", "eggs", "oats"],
         "tags": ["Breakfast", "Gluten-free", "Vegetarian", "Fast"],
-        "img": "",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcatalinalinkava.files.wordpress.com%2F2014%2F03%2Fbanana-pancakes-2.jpg&f=1&nofb=1",
 
         "steps": {
             "ingredients": ["1 large ripe banana", "1 large egg", "2 tbsp quick oats", "1/4 tsp baking powder(OPTIONAL)"],
@@ -345,7 +345,7 @@
         "name": "Simple Pizza",
         "resources": ["all purpose flour", "greek yogurt", "all purpose flour", "baking powder", "tomato sauce"],
         "tags": ["Italian", "Fast", "Easy", "Vegetarian"],
-        "img": "",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FP-Ojv_1veCg%2Fmaxresdefault.jpg&f=1&nofb=1",
 
         "steps": {
             "ingredients": ["1 cup nonfat plain Greek yogurt", "1 ½ cups all purpose flour", "2 ¼ tsp baking powder", "3/8 tsp salt", "tomato sauce", "pizza topping of choice"],
@@ -364,7 +364,7 @@
         "name": "GRILLED CHEESE AND TOMATO SANDWICHES",
         "resources": ["toast bread", "tomatoes", "Cheddar cheese", "butter"],
         "tags": ["Snack", "Fast", "Easy", "Vegetarian"],
-        "img": "",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.AXyjAC4-K-lGwFQ0Zwt1rgHaIT%26pid%3DApi&f=1",
 
         "steps": {
             "ingredients": ["4 slices toast bread", "1  medium tomato", "4 slices white cheddar cheese", "2 tbsp unsalted butter"],
@@ -378,7 +378,7 @@
         "name": "English Muffin",
         "resources": ["milk", "coconut flour", "eggs", "baking powder"],
         "tags": ["Breakfast", "Vegetarian", "Snack"],
-        "img": "",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.budgetbytes.com%2Fwp-content%2Fuploads%2F2010%2F07%2FEnglish-Muffins-front.jpg&f=1&nofb=1",
 
         "steps": {
             "ingredients": ["2 tbsp coconut flour", "1 large egg", "1/8 tsp baking powder", "2 tbsp milk"],
@@ -394,7 +394,7 @@
         "name": "Chocolate Cake",
         "resources": ["butter", "eggs", "chocolate"],
         "tags": ["Cake", "Dessert", "Snack", "Vegetarian", "Gluten-free"],
-        "img": "",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FdsJtgmAhFF4%2Fmaxresdefault.jpg&f=1&nofb=1",
 
         "steps": {
             "ingredients": ["1 cup (2 sticks) unsalted butter, plus more for pan", "8 large eggs", "16 ounces semisweet chocolate chips", "1/4 teaspoon fine sea salt"],
@@ -412,7 +412,7 @@
         "name": "Chocolate Bark",
         "resources": ["chocolate", "hard candy"],
         "tags": ["Snack", "Fast", "Gluten-free", "Vegetarian", "Dessert", "Easy"],
-        "img": "",
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.jamieoliver.com%2Fnews-and-features%2Ffeatures%2Fwp-content%2Fuploads%2Fsites%2F2%2F2015%2F04%2Ffeature-header.jpg&f=1&nofb=1",
 
         "steps": {
             "ingredients": ["12 ounces high-quality dark chocolate, coarsely chopped", "1/2 teaspoon peppermint extract (OPTIONAL)", "5 candy canes, coarsely crushed"],
@@ -427,7 +427,7 @@
         "name": "French Macaroons",
         "resources": ["powdered sugar", "eggs", "sugar", "ground almonds"],
         "tags": ["Snack", "Dessert", "Vegetarian"],
-        "img": "",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.weddingcakesbakery.com%2Fmedia%2Fcustomoptions%2Foptions%2F1004%2F15335%2F_Z_20704.jpg&f=1&nofb=1",
 
         "steps": {
             "ingredients": ["3 egg whites", "sugar", "powdered sugar", "115 cups finely ground almonds"],
@@ -445,7 +445,7 @@
         "name": "Paleo Baked Eggs in Avocado",
         "resources": ["eggs", "avocado"],
         "tags": ["Easy", "Apperizer", "Fast", "Snack", "Vegetarian", "Gluten-free"],
-        "img": "",
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F600x600%2F1903456.jpg&f=1&nofb=1",
 
         "steps": {
             "ingredients": ["2 small eggs", "1 avocado, halved and pitted", "2 slices cooked bacon, crumbled(optional)", "1 pinch sea salt and ground black pepper to taste", "any salad related food choped"],
@@ -461,7 +461,7 @@
         "name": "Hummus",
         "resources": ["chickpeas", "garlic", "olive oil"],
         "tags": ["Apperizer", "Fast", "Easy", "Vegetarian", "Gluten-free"],
-        "img": "",
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fuploads%2F2017%2F12%2Feasy-hummus-horiz-a-1800.jpg&f=1&nofb=1",
 
         "steps": {
             "ingredients": ["Chickpeas 15 ounce", "1 clove garlic, crushed", "2 teaspoons ground cumin(optional)", "1/2 teaspoon salt", "1 tablespoon olive oil"],
@@ -474,7 +474,7 @@
         "name": "Keto Cheese Crisps",
         "resources": ["Cheddar cheese"],
         "tags": ["Apperizer", "Easy", "Vegetarian", "Gluten-free", "Fast"],
-        "img": "",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F560x315%2F6332046.jpg&f=1&nofb=1",
 
         "steps": {
             "ingredients": ["1 cup shredded Cheddar cheese"],
@@ -490,7 +490,7 @@
         "name": "Frosty grapes",
         "resources": ["grapes", "white sugar"],
         "tags": ["Snack", "Apperizer", "Easy", "Gluten-free", "Vegetarian"],
-        "img": "",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F560x315%2F798534.jpg&f=1&nofb=1",
 
         "steps": {
             "ingredients": ["2 cups of grapes", "1/4 cup white sugar"],
