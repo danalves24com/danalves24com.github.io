@@ -182,7 +182,7 @@
         "name": "Cheesy Chicken Nachos",
         "resources": ["tortilla chips", "chicken breasts", "Cheddar cheese", "salsa", "radishes", "cotija cheese", "avocado", "salad"],
         "tags": ["Snack","Fast"],
-        "img": "",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-image.realsimple.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmarquee_large_2x%2Fpublic%2F1557410625%2Fchicken-nachos-0619din.jpg%3Fitok%3DomoB0AdP&f=1&nofb=1",
 
         "steps": {
             "ingredients": ["1 11-oz. pkg. tortilla chips", "2 cups shredded rotisserie chicken", "6 ounces sharp Cheddar cheese, shredded (about 1½ cups)", "1 cup prepared pico de gallo or salsa", "2 radishes, thinly sliced", "2 ounces cotija cheese, crumbled (about ½ cup)", "1 ripe avocado, sliced", "½ cup loosely packed fresh cilantro leaves"],
@@ -197,7 +197,7 @@
         "name": "Simple pancakes",
         "resources": ["plain flour", "eggs", "milk", "vegetable oil"],
         "tags": ["Vegetarian","Fast", "Breakfast", "Dessert"],
-        "img": "",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FFLd00Bx4tOk%2Fmaxresdefault.jpg&f=1&nofb=1",
 
         "steps": {
             "ingredients": ["100g plain flour", "2 large eggs", "300ml milk", "1 tbsp sunflower or vegetable oil, plus a little extra for frying", "lemon wedges, to serve (optional)", "caster sugar, to serve (optional)"],
@@ -214,7 +214,7 @@
         "name": "Easy chicken fajitas",
         "resources": ["chicken breasts", "red onion", "red pepper", "smoked paprika", "coriander", "cumin", "garlic", "olive oil", "limes", "tabasco", "tortillas", "salad", "salsa"],
         "tags": ["Spanish"],
-        "img": "",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsimple-nourished-living.com%2Fwp-content%2Fuploads%2F2016%2F05%2Feasy-chicken-fajitas-2-SP.jpg&f=1&nofb=1",
 
         "steps": {
             "ingredients": ["2 large chicken breasts, finely sliced", "1 red onion, finely sliced", "1 red pepper, sliced", "1 heaped tbsp smoked paprika", "1 tbsp ground coriander", "pinch of ground cumin", "2 medium garlic cloves, crushed", "4 tbsp olive oil", "1 lime, juiced", "4-5 drops Tabasco", "6 medium tortillas", "bag mixed salad", "230g tub fresh salsa"],
@@ -234,7 +234,7 @@
         "name": "Bolognese",
         "resources": ["olive oil", "onion", "garlic", "celery", "carrot", "minced beef", "tomatoes", "basil", "Pecorino Romano cheese"],
         "tags":["Italian"],
-        "img": "",
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.telegraph.co.uk%2Fcontent%2Fdam%2Fnews%2F2016%2F10%2F10%2F110834886RestrictedSpagBogNEWS-xlarge_trans_NvBQzQNjv4Bqeo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA.jpg&f=1&nofb=1",
 
         "steps": {
             "ingredients": ["4 tbsps extra virgin olive oil", "1 medium onion, coarsely chopped", "2 garlic cloves, peeled, coarsely chopped", "1 celery stalk, coarsely chopped", "1 carrot, coarsely chopped", "500g minced beef", "1 (800g) tin crushed tomatoes", "Handful flat leaf Italian parsley, chiffonade", "8 fresh basil leaves, chiffonade", "Salt and freshly ground black pepper", "60g freshly grated Pecorino Romano cheese"],
@@ -249,7 +249,7 @@
         "name": "NUTELLA BROWNIES",
         "resources": ["Nutella", "eggs", "flour"],
         "tags": ["Dessert", "Cake", "Fast", "Vegetarian"],
-        "img": "",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FEPZ4ijtYFKk%2Fmaxresdefault.jpg&f=1&nofb=1",
 
         "steps": {
             "ingredients": ["1  1/4 cup Nutella", "2 large eggs", "1/2 cup all purpose flour"],
@@ -263,7 +263,7 @@
         "name": "Cookie Dough Greek Yogurt",
         "resources": ["greek yogurt", "peanut flour", "sugar", "vanilla extract"],
         "tags":["Breakfast", "Dessert", "Snack", "Fast", "Vegetarian", "Gluten-free"],
-        "img": "",
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.singforyoursupperblog.com%2Fwp271%2Fwp-content%2Fuploads%2F2013%2F03%2Fcookie-dough-greek-yogurt-2.jpg&f=1&nofb=1",
 
         "steps": {
             "ingredients": ["1 cup Greek yogurt", "2 tbs Peanut flour", "1 tbs Sweetener of choice", "1/2 tsp Vanilla extract", "1/4 tsp Almond extract (optional)", "1-2 tsp Chocolate chips (optional)"],
@@ -276,7 +276,7 @@
         "name": "Lemon pudding",
         "resources": ["lemon", "sugar", "heavy cream"],
         "tags": ["Dessert", "Fast", "Vegetarian", "Gluten-free"],
-        "img": "",
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fdaisyt13.files.wordpress.com%2F2013%2F03%2Fmeyer-lemon-pudding-10.jpg&f=1&nofb=1",
 
         "steps": {
             "ingredients": ["4 lemons, preferably organic", "2 1/4 cups sugar", "3 1/2 cups heavy cream", "Pinch of salt"],
@@ -292,7 +292,7 @@
         "name": "Coconut Macaroons",
         "resources": ["flaked coconut", "condensed milk", "vanilla extract"],
         "tags": ["Gluten-free", "Dessert", "Snack", "Vegetarian"],
-        "img": "",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fuploads%2F2011%2F12%2Fcoconut-macaroons-horiz-a-1800.jpg&f=1&nofb=1",
 
         "steps": {
             "ingredients": ["5 1/2 cups sweetened flaked coconut (gently packed)", "1 (14-ounce) can sweetened ​condensed milk", "2 to 3 teaspoons vanilla extract"],
@@ -312,7 +312,7 @@
         "name": "Banana rolls",
         "resources": ["banana", "almond butter", "cinnamon"],
         "tags": ["Dessert", "Fast", "Easy", "Gluten-free", "Vegetarian"],
-        "img": "",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages-gmi-pmc.edge-generalmills.com%2F7fa34c1d-b378-44ef-b67f-c5fc35e3e9bc.jpg&f=1&nofb=1",
 
         "steps": {
             "ingredients": ["1 Medium-Sized Banana", "1 Tbl Almond Butter", "1/2 tsp Cinnamon"],
