@@ -94,7 +94,7 @@
         }
     },
     "6": {
-        "name": "Granny's German Schnitzel Recipe",
+        "name": "Granny's Schnitzel Recipe",
         "resources": ["pork", "flour", "eggs", "lemon juice", "bread crumb", "vegetable oil", "lemon"],
         "tags": ["German", "Meat"],    
         "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.dessertfortwo.com%2Fwp-content%2Fuploads%2F2014%2F12%2FSchnitzel-2.jpg&f=1&nofb=1",
