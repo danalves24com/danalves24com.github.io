@@ -33,7 +33,7 @@
 
     "2": {
         "name": "Chocolate brownie cake",
-        "resources": ["butter", "caster sugar", "brown sugar", "chocolate", "golden syrup", "eggs", "vanilla extract", "plain flour", "baking powder", "cocoa powder"],
+        "resources": ["butter", "caster sugar", "sugar", "chocolate", "golden syrup", "eggs", "vanilla extract", "plain flour", "baking powder", "cocoa powder"],
         "tags": ["Dessert", "Cake"],    
         "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FzA6Xf-YUadk%2Fmaxresdefault.jpg&f=1&nofb=1",
         "steps": {
@@ -488,7 +488,7 @@
     },
     "30": {
         "name": "Frosty grapes",
-        "resources": ["grapes", "white sugar"],
+        "resources": ["grapes", "sugar"],
         "tags": ["Snack", "Apperizer", "Easy", "Gluten-free", "Vegetarian"],
         "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F560x315%2F798534.jpg&f=1&nofb=1",
 
@@ -500,6 +500,18 @@
                 "step3" : "Pour sugar into the bag and seal. Gently shake the bag to evenly coat grapes with sugar. ",
                 "step4" : "Arrange grapes on a paper towel to air-dry any remaining water, about 15 minutes.",
                 "step5" : "Place grapes in a single layer on a shallow pan or baking sheet. Freeze for at least 2 hours."
+            }
+        }
+    },
+    "31": {
+        "name": "Tamagoyaki",
+        "resources": ["soy sauce", "sugar", "eggs"],
+        "tags": ["Vegetarian", "Fast", "Easy", "Gluten-free"],
+        "steps": {
+            "ingredients": ["1 tablespoon water", "1 teaspoon soy sauce, or to taste (optional)", "1/2 teaspoon sugar"],
+            "bakingSteps": {
+                "step1" : "Mix water, soy sauce, and sugar together in a small bowl until sugar is dissolved. Add egg and beat until egg mixture is combined.",
+                "step2" : "Heat skillet over medium heat until a drop of water evaporates almost immediately. Pour egg mixture into pan. Cook until the bottom of the omelet has solidified, 3 to 5 minutes. Flip and fold omelet into a square and transfer to a plate."
             }
         }
     }
