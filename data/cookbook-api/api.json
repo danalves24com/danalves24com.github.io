@@ -77,7 +77,7 @@
     },
     "5": {
         "name": "Simple Pasta",
-        "resources": ["salt", "pasta", "olive oil"],
+        "resources": ["pasta", "olive oil"],
         "tags": ["Italian", "Vegetarian"],    
         "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnwI40GAqatw%2Fmaxresdefault.jpg&f=1&nofb=1",
 
