@@ -515,5 +515,18 @@
                 "step2" : "Heat skillet over medium heat until a drop of water evaporates almost immediately. Pour egg mixture into pan. Cook until the bottom of the omelet has solidified, 3 to 5 minutes. Flip and fold omelet into a square and transfer to a plate."
             }
         }
+    },
+    "32": {
+        "name": "winner winner chicken dinner",
+        "resources": ["butter", "barbeque sauce", "Worcestershire sauce", "garlic powder", "chicken breasts"],
+        "tags": ["Gluten-free", "Meat", "Easy"],
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1336855.jpg&q=85",
+        "steps": {
+            "ingredients": ["1 tablespoon butter", "⅔ cup barbeque sauce", "1 tablespoon Worcestershire sauce", "⅔ teaspoon garlic powder", "1 ½ pounds chicken cut into 1/2-inch strips"],
+            "bakingSteps": {
+                "step1" : "Melt butter in a saucepan over medium heat. Stir barbeque sauce, Worcestershire sauce, and garlic powder together with the melted butter. Stir chicken into the sauce mixture to coat.",
+                "step2" : "Place cover on saucepan and simmer until the chicken pieces are cooked through and no longer pink in the middle, 3 to 5 minutes. Remove cover and spoon sauce over chicken pieces; continue cooking until sauce thickens, about 4 minutes more."
+            }
+        }
     }
 }]
