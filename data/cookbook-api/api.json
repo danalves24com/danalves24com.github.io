@@ -507,6 +507,7 @@
         "name": "Tamagoyaki",
         "resources": ["soy sauce", "sugar", "eggs"],
         "tags": ["Vegetarian", "Fast", "Easy", "Gluten-free"],
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fjusthungry.com%2Ffiles%2Fimages%2Ftamagoyaki1.jpg&f=1&nofb=1",
         "steps": {
             "ingredients": ["1 tablespoon water", "1 teaspoon soy sauce, or to taste (optional)", "1/2 teaspoon sugar"],
             "bakingSteps": {
