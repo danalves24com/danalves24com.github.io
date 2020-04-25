@@ -233,7 +233,7 @@
     "14": {
         "name": "Bolognese",
         "resources": ["olive oil", "onion", "garlic", "celery", "carrot", "minced beef", "tomatoes", "basil", "Pecorino Romano cheese"],
-        "tags":["Italian"],
+        "tags":["Italian", "Meat"],
         "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.telegraph.co.uk%2Fcontent%2Fdam%2Fnews%2F2016%2F10%2F10%2F110834886RestrictedSpagBogNEWS-xlarge_trans_NvBQzQNjv4Bqeo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA.jpg&f=1&nofb=1",
 
         "steps": {
