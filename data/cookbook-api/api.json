@@ -528,23 +528,6 @@
                 "step2" : "Place cover on saucepan and simmer until the chicken pieces are cooked through and no longer pink in the middle, 3 to 5 minutes. Remove cover and spoon sauce over chicken pieces; continue cooking until sauce thickens, about 4 minutes more."
             }
         }
-    },
-    "33": {
-        "name": "Peanut Butter Cookies",
-        "resources": ["sugar", "peanut butter", "eggs"],
-        "tags": ["Gluten-free", "Vegetarian", "Breakfast", "Dessert", "Snack"],
-        "img": "https://anisasabet.com.au/wp-content/uploads/2014/06/Peanut-Butter-Cookies-7-The-Macadames.jpg",
-        "steps": {
-            "ingredients": ["1 cup of white sugar", "1 cup of peanut butter", "1 egg"],
-            "bakingSteps": {
-                "step1" : "Preheat oven to 175 degrees F.",
-                "step2" : "Mix together all ingredients in a bowl until combined.",
-                "step3" : "With wet hands, roll spoonfuls of cookie mixture into balls and evenly lay on baking paper covered tray.",
-                "step4" : "Use a fork to press indent into the top of the cookies and to flatten.",
-                "step5" : "Place tray in oven and bake for 10-12 minutes or until golden.",
-                "step6" : "The cookies will still be soft when warm, rest on a tray until they firm up."
-            }
-        }
     }
 
 }]
