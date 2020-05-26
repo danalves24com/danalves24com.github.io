@@ -1,6 +1,6 @@
 [{
     "0": {
-        "name": "Chicken & chorizo jambalaya",
+        "name": "Chicken and chorizo jambalaya",
         "tags": ["Spanish", "Gluten-free"],
         "resources": ["olive oil", "chicken breasts", "onion", "red pepper", "garlic", "chorizo", "Cajun seasoning", "long grain rice", "tomatoes", "chicken stock"],
         "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F93546-d-c.ooyala.com%2Fcontent%2Fimages%2F1204%2F280030_1280x720.jpg&f=1&nofb=1",
@@ -15,7 +15,7 @@
         }
     },
     "1": {
-        "name": "Red lentil, chickpea & chilli soup",
+        "name": "Red lentil, chickpea and chilli soup",
         "resources": ["cumin seeds", "chilli flakes", "olive oil", "red split lentils", "vegetable stock", "tomatoes", "chickpeas", "coriander"],
         "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.sharonsnowdon.com%2Fwp-content%2Fuploads%2F2016%2F04%2FRed-lentil-chickpea-chilli-soup-e1459701247778.jpg&f=1&nofb=1",
         "tags": ["Soup", "Vegetarian", "Gluten-free"],
@@ -144,7 +144,7 @@
         }
     },
     "9":{
-        "name": "Roasted Sweet Potato & Scallion Salad",
+        "name": "Roasted Sweet Potato and Scallion Salad",
         "resources": ["sweet potato", "scallions", "salad", "canola oil", "soy sauce", "balsamic vinegar", "sugar", "roasted pumpkin seeds"],
         "tags": ["Salad", "Gluten-free", "Vegetarian"],    
         "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F4.bp.blogspot.com%2F-_BD4psLJeHk%2FU5z1Cm0njCI%2FAAAAAAAABOk%2FAyDeF0ow3Kg%2Fs1600%2Froasted%2Bsweet%2Bpotatoes%2Bwith%2Bbacon%2Band%2Bscallions.PNG&f=1&nofb=1",
@@ -543,6 +543,18 @@
                 "step4" : "Use a fork to press indent into the top of the cookies and to flatten.",
                 "step5" : "Place tray in oven and bake for 10-12 minutes or until golden.",
                 "step6" : "The cookies will still be soft when warm, rest on a tray until they firm up."
+            }
+        }
+    },
+    "34": {
+        "name": "",
+        "resources": [""],
+        "tags": [],
+        "img": "",
+        "steps": {
+            "ingredients": [""],
+            "bakingSteps": {
+                "step1" : "",
             }
         }
     }
