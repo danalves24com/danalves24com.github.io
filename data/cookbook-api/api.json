@@ -545,17 +545,6 @@
                 "step6" : "The cookies will still be soft when warm, rest on a tray until they firm up."
             }
         }
-    },
-    "34": {
-        "name": "",
-        "resources": [""],
-        "tags": [],
-        "img": "",
-        "steps": {
-            "ingredients": [""],
-            "bakingSteps": {
-                "step1" : "",
-            }
-        }
     }
+
 }]
